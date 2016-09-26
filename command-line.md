@@ -9,7 +9,7 @@
 <p> 2. pwd - Show a detailed description of where the current file you are working on is located</p>
 <p> 3. cd  - Change which folder you are working in</p>
 <p> 4. ls - Show any information that is not hidden about the file </p>
-<p> 5. diff - Isolate and show any differences between two files </p> **
+<p> 5. diff - Isolate and show any differences between two files </p>
 <br>
 ***Git Commands***
 <br>
