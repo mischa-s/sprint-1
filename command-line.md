@@ -5,7 +5,7 @@
 <br>
  ***Standard Commands (Git + Normal Terminal)***
 <br>
-<p **> 1. rm - Delete a file </p>
+<p> 1. rm - Delete a file </p>
 <p> 2. pwd - Show a detailed description of where the current file you are working on is located</p>
 <p> 3. cd  - Change which folder you are working in</p>
 <p> 4. ls - Show any information that is not hidden about the file </p>
